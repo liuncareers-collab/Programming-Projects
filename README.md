@@ -1,11 +1,10 @@
-**#Programming Projects**
+#Programming Projects
 
-Midterm Project: Equity Portfolio Management
-
-  Retrieved historical stock data for top companies
-  Cleaned data
-  Created functions for investment strategies, and see which one performs the best
-  Exchanged USD to JPY for strategies
+1. Equity Portfolio Management Project
+  - Retrieved historical stock data for top companies
+  - Cleaned data
+  - Created functions for investment strategies, and see which one performs the best
+  - Exchanged USD to JPY for strategies
 
 Final Project: Predict Future Sales
   Retrieved historical sales data from https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data
