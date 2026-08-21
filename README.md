@@ -1,6 +1,7 @@
 **#Programming Projects**
 
 Midterm Project: Equity Portfolio Management
+
   Retrieved historical stock data for top companies
   Cleaned data
   Created functions for investment strategies, and see which one performs the best
