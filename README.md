@@ -1,4 +1,4 @@
-This is a page for my programming projects.
+**#Programming Projects**
 
 Midterm Project: Equity Portfolio Management
   Retrieved historical stock data for top companies
