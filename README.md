@@ -1,6 +1,6 @@
-#Programming Projects
+<h1>Programming Projects</h1>
 
-1. Equity Portfolio Management Project
+<h2>Equity Portfolio Management Project</h2>
   - Retrieved historical stock data for top companies
   - Cleaned data
   - Created functions for investment strategies, and see which one performs the best
