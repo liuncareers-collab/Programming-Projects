@@ -1,4 +1,4 @@
-This is a page for my projects in a Data Analytics with R class.
+This is a page for my programming projects.
 
 Midterm Project: Equity Portfolio Management
   Retrieved historical stock data for top companies
