@@ -8,6 +8,7 @@
 <li>Exchanged USD to JPY for strategies</li>
 
 <h2>Predict Future Sales</h2>
+<h3>Final Project for my Data Analytics in R Class</h3>
 <li>Retrieved historical sales data from <a href="https://www.kaggle.com/c/competitive-data-science-predict-future-sales/data" target="_blank">Kaggle</a> </li>
 <li>Cleaned data</li>
 <li>Used averages of months to predict sales</li>
