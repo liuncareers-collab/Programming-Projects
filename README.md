@@ -1,7 +1,7 @@
 <h1>Programming Projects</h1>
 
 <h2>Equity Portfolio Management Project</h2>
-<h3>Midterm project for my Data Analytics in R Class</h3>
+<h3>Midterm Project for my Data Analytics in R Class</h3>
 <li>Retrieved historical stock data for top companies
 <li>Cleaned data</li>
 <li>Created functions for investment strategies, and see which one performs the best</li>
@@ -18,3 +18,8 @@
 <h3>Made a local version of Cluedo using Pygame as the framework<h3>
   <li>Visual, interactive board</li>
   <li>Up to 6 Playable Characters</li>
+
+<h2>Lion, Goat, Grass Problem</h2>
+<h3>Midterm Project for my AI Class</h3>
+<li>Used Python to create searching algorithms for best solutions to the problem</li>
+<li>Coded Breadth-First Search (BFS) and Depth-First Search (DFS) solutions</li>
