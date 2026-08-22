@@ -14,4 +14,7 @@
 <li>Used averages of months to predict sales</li>
 <li>Used linear regression to predict sales</li>
 
-  
+<h2>Cluedo</h2>
+<h3>Made a local version of Cluedo using Pygame as the framework<h3>
+<li>Visual, interactive board</li>
+<li>Up to 6 Playable Characters</li>
